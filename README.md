@@ -50,7 +50,7 @@ npm -v
 ### 1. Masuk ke Direktori Proyek
 Buka terminal dan navigasikan ke root folder proyek:
 ```bash
-cd testIndico
+cd UI-Test
 ```
 
 ### 2. Pasang Dependensi Node.js
@@ -103,10 +103,6 @@ Setelah pengujian selesai dijalankan, Playwright secara otomatis mengompilasi la
 
 ### Cara Membuka HTML Report:
 Jalankan perintah berikut:
-```bash
-npm run test:report
-```
-*atau:*
 ```bash
 npx playwright show-report
 ```
